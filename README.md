@@ -40,13 +40,10 @@
 ---
 
 ## 📌 Featured Projects  
-🚀 [MovieZone](https://movie-explorer-silk-one.vercel.app/) – A sleek movie browsing app built with React & TypeScript. 
-
-📖 [Motivation Blog](https://motivation-blog.vercel.app/) – A blog platform to inspire and uplift people.  
-
-📄 [PDF to MCQ Generator](https://github.com/Hossain86/PDF-to-MCQ-Generator) – A tool that converts PDFs into quizzes using AI.  
-
-🎮 [GameZone](https://game-zone-rho.vercel.app/ ) – A game browsing app built with React & TypeScript.
+- **🚀 [MovieZone](https://movie-explorer-silk-one.vercel.app/) – A sleek movie browsing app built with React & TypeScript.**
+- **📖 [Motivation Blog](https://motivation-blog.vercel.app/) – A blog platform to inspire and uplift people.**
+- **📄 [PDF to MCQ Generator](https://github.com/Hossain86/PDF-to-MCQ-Generator) – A tool that converts PDFs into quizzes using AI.**
+- **🎮 [GameZone](https://game-zone-rho.vercel.app/ ) – A game browsing app built with React & TypeScript.**
 
 ---
 
