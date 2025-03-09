@@ -39,6 +39,17 @@
 
 ---
 
+## 📌 Featured Projects  
+🚀 [MovieZone](https://movie-explorer-silk-one.vercel.app/) – A sleek movie browsing app built with React & TypeScript. 
+
+📖 [Motivation Blog](https://motivation-blog.vercel.app/) – A blog platform to inspire and uplift people.  
+
+📄 [PDF to MCQ Generator](https://github.com/Hossain86/PDF-to-MCQ-Generator) – A tool that converts PDFs into quizzes using AI.  
+
+🎮 [GameZone](https://game-zone-rho.vercel.app/ ) – A game browsing app built with React & TypeScript.
+
+---
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hossain86&show_icons=true&theme=radical" alt="Aftab's GitHub stats"/>
@@ -52,8 +63,8 @@
 
 ## 📫 How to Reach Me
 - 📧 **Email:** [aftabhossainmikat@gmail.com](mailto:aftabhossainmikat@gmail.com)
-- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aftab-hossain-mikat/)
-- 🌐 **Portfolio:** [Your Portfolio Website](https://port-folio-xi-eight.vercel.app/)
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/aftab-hossain-mikat/)
+- 🌐 **Portfolio:** [My Portfolio Website](https://port-folio-xi-eight.vercel.app/)
 
 ---
 
