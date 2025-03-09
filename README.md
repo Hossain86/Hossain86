@@ -8,17 +8,17 @@
 - 🎓 **Computer Science & Engineering** student at RUET.
 - 👨‍💻 Passionate about **Software Development, Competitive Programming, and Full-Stack Web Development**.
 - 🔥 Currently learning **Backend Development** with **Node.js, Python Flask, MySQL, and MongoDB**.
-- 🏆 Enthusiastic about **Data Structures & Algorithms (DSA)** and solving CP problems.
+- 🏆 Enthusiastic about **Machine Learning, AI, Data Structures & Algorithms (DSA)** and solving CP problems.
 
 ---
 
 ## 🛠️ Tech Stack
 ### 💡 Languages:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🏗️ Frontend:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,24 +41,23 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AftabHossainMikat&show_icons=true&theme=radical" alt="Aftab's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hossain86&show_icons=true&theme=radical" alt="Aftab's GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AftabHossainMikat&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hossain86&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 📫 How to Reach Me
 - 📧 **Email:** [aftabhossainmikat@gmail.com](mailto:aftabhossainmikat@gmail.com)
-- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aftabhossainmikat/)
-- 🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 🌐 **Portfolio:** [Your Portfolio Website](https://your-portfolio-link.com)
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aftab-hossain-mikat/)
+- 🌐 **Portfolio:** [Your Portfolio Website](https://port-folio-xi-eight.vercel.app/)
 
 ---
 
-⭐ **Fun Fact:** I love solving complex problems and breaking them into simple solutions! 😃
+⭐ **Fun Fact:** I love solving programming problems and breaking them into simple solutions! 😃
 
 🌱 **Always learning, always growing!** 🚀
 
