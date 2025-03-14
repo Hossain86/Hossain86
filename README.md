@@ -48,12 +48,11 @@
 
 ## 📈 GitHub Stats
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain86&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain86&layout=compact&theme=light)
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hossain86&show_icons=true&theme=radical" alt="Aftab's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hossain86&show_icons=true&theme=light" alt="Aftab's GitHub stats"/>
 </p>
 
 
