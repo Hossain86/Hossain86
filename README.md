@@ -5,7 +5,6 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **Computer Science & Engineering** student at RUET.
 - 👨‍💻 Passionate about **Software Development, Competitive Programming, and Full-Stack Web Development**.
 - 🔥 Currently learning **Backend Development** with **Node.js, Python Flask, MySQL, and MongoDB**.
 - 🏆 Enthusiastic about **Machine Learning, AI, Data Structures & Algorithms (DSA)** and solving CP problems.
@@ -64,8 +63,6 @@
 - 🌐 **Portfolio:** [My Portfolio Website](https://port-folio-xi-eight.vercel.app/)
 
 ---
-
-⭐ **Fun Fact:** I love solving programming problems and breaking them into simple solutions! 😃
 
 🌱 **Always learning, always growing!** 🚀
 
