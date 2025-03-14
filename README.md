@@ -47,13 +47,15 @@
 ---
 
 ## 📈 GitHub Stats
+
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain86&layout=compact&theme=radical)
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hossain86&show_icons=true&theme=radical" alt="Aftab's GitHub stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hossain86&theme=radical" alt="GitHub Streak"/>
-</p>
 
 ---
 
